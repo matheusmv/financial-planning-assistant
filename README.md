@@ -1,3 +1,3 @@
 # financial-planning-assistant
 
-    app to practice go
+    random app to learn Go
